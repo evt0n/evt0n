@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m 28 years old. I am graduated in Computer Information Systems, currently working with Django :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
+I’m 28 years old. I am majoring in Information Systems, currently working with Django :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
 ### Find me here :D
 [![Linkedin Badge](https://img.shields.io/badge/-Evt0n-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in//)
