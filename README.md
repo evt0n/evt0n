@@ -22,7 +22,7 @@ I’m 28 years old. I am majoring in Information Systems, currently working with
 </p>
         
 :earth_americas: Living in Maceio, Brazil      
-:four_leaf_clover: I love Music, Games and Sports.
+:four_leaf_clover: I love Music, Games and e/Sports.
 
 ### Skills ###
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
