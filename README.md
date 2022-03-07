@@ -2,11 +2,25 @@
 
 I’m 28 years old. I am majoring in Information Systems, currently working with Django :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
-### Find me here :D
-[![Linkedin Badge](https://img.shields.io/badge/-Evt0n-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in//)
-[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:)
+### Find me
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Evt0n-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in//)
+[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:) -->
 
-📚 Check my [Personal Blog](https://evt0n.github.io/)           
+<p>
+  <a href="https://twitter.com/">
+    <img alt="Twitter" src="https://img.shields.io/badge/@evt0n-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in//">
+    <img alt="Discord" src="https://img.shields.io/badge/-Evt0n-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+    <a href="https://evt0n.github.io/">
+    <img alt="Gmail" src="https://img.shields.io/badge/Personal Blog-%23000000.svg?&style=for-the-badge&logo=StackEdit&logoColor=white" />
+  </a>
+</p>
+        
 :earth_americas: Living in Maceio, Brazil      
 :four_leaf_clover: I love Music, Games and Sports.
 
